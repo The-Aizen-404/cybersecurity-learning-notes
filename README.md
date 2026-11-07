@@ -5,7 +5,7 @@ Practical beginner-friendly notes for Linux, command-line tools, and cybersecuri
 ## Folders
 
 - `linux-cheatsheets/` — concise command references, added one topic at a time.
-- `python-scripts/` — reserved for small, documented scripts that add something distinct from the existing [My-CyberSec-Journey tools](https://github.com/phsecx/My-CyberSec-Journey); this starter contains no Python code.
+- `python-scripts/` — reserved for small, documented scripts that add something distinct from the existing [My-CyberSec-Journey tools](https://github.com/The-Aizen-404/My-CyberSec-Journey); this starter contains no Python code.
 - `thm-writeups/` — reserved for permitted study notes; no room-specific writeups are included in this starter.
 
 ## Safe use
